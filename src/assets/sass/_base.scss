@@ -8,6 +8,11 @@
     padding: 0;
 }
 
+html
+{
+    font-size: 62.5%;
+}
+
 body
 {
     background-color: $background;
@@ -16,10 +21,11 @@ body
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
     font-weight: 300;
-    padding: 20px 30px;
+    padding: 2rem 3rem;
 }
 .app__title
 {
     color: $font;
+    font-size: 3rem;
     text-align: center;
 }
