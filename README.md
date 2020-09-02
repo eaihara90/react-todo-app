@@ -7,5 +7,5 @@ This app was made by me following the great tutorial from The Net Ninja YT chann
 
 
 ### Who Am I?
-Currently I'm a self-taught developer student. I'm focusing towards front end development, as well as frameworks like Angular and React (mainly on React right now!).
+Currently I'm a self-taught developer student. I'm focusing towards front end development. HTML, CSS, SASS and Javascript is my thing, as well as frameworks like Angular and React (mainly on React right now!).
 Looking forward to learn React Native, MERN stack and whatever interests me!
